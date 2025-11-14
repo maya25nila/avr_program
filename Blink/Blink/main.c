@@ -3,7 +3,7 @@
  *
  * Created: 13-11-2025 20:47:34
  * Author : littles
- */ 
+ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
